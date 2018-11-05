@@ -13,7 +13,6 @@ List of Healthcare conferences in Boston.
 [MIT Wearable and Digital Health](http://mit.applysci.com)  
 [Patient Experience Symposium](https://www.patientsymposium.com)  
 [The Future of Healthcare: Bringing It Back to the Basics](https://www.eventbrite.com/e/the-future-of-healthcare-bringing-it-back-to-the-basics-tickets-49429663454?aff=ebdssbdestsearch)  
-[Virtual Reality and Healthcare Symposium](http://health18.vrvoice.co)  
 [Voice of Healthcare](https://www.eventbrite.com/e/the-voice-of-healthcare-summit-2019-tickets-49008216896?aff=ebdssbdestsearch)  
 [Voice Health Summit](https://www.connectedhealthconf.org/boston/2018/VOICE.HEALTH-Summit)  
 [World Medical Innovation](https://worldmedicalinnovation.org)  
