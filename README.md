@@ -1,7 +1,6 @@
 # Boston Healthcare Conferences
 List of Healthcare conferences in Boston.
 
-[All Things Open](https://allthingsopen.org)  
 [Bio IT World](http://www.giiconference.com/chi653337/)  
 [BU Health & Life Science Conference](http://questromworld.bu.edu/hlsc/)  
 [Connected Health](https://www.connectedhealthconf.org/)  
