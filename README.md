@@ -20,5 +20,5 @@ List of Healthcare conferences in Boston.
 [Voice Health Summit](https://www.connectedhealthconf.org/boston/2018/VOICE.HEALTH-Summit)  
 [World Medical Innovation](https://worldmedicalinnovation.org)  
 
-Conferences come and go and some are not on repeat, so send a pull request to help keep the list up to date.
+Conferences come and go and some are not on repeat, so feel free to send a pull request to help keep the list up to date.
 Thanks!
