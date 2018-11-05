@@ -8,7 +8,7 @@ List of Healthcare conferences in Boston.
 [Digital Healthcare Innovation Summit](https://dhis.net)  
 [Expo Health](https://www.expo.health)  
 [Health care conference](https://www.hbshealthconference.com)  
-[Health Experience Design](https://healthexperiencedesign.com) 
+[Health Experience Design](https://healthexperiencedesign.com)  
 [HITMC](https://www.healthitmarketingconference.com)  
 [INFORMS Healthcare](http://meetings2.informs.org/wordpress/healthcare2019/)  
 [MIT Wearable and Digital Health](http://mit.applysci.com)  
