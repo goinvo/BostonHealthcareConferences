@@ -1,20 +1,17 @@
 # Boston Healthcare Conferences
 List of Healthcare conferences in Boston.
 
+[AI in Healthcare Summit](https://10times.com/ai-in-healthcare-summit-boston)  
 [Bio IT World](http://www.giiconference.com/chi653337/)  
-[BU Health & Life Science Conference](http://questromworld.bu.edu/hlsc/)  
-[Connected Health](https://www.connectedhealthconf.org/)  
-[Connected Healthcare World Congress](http://chealthworld.com)  
-[Digital Healthcare Innovation Summit](https://dhis.net)  
-[Expo Health](https://www.expo.health)  
-[Health care conference](https://www.hbshealthconference.com)  
+[Health Care Conference](https://www.hbshealthconference.com)  
 [Health Experience Design](https://healthexperiencedesign.com)  
-[INFORMS Healthcare](http://meetings2.informs.org/wordpress/healthcare2019/)  
-[MIT Wearable and Digital Health](http://mit.applysci.com)  
+[International Conference on Healthcare and E-health](https://waset.org/healthcare-and-e-health-conference-in-april-2020-in-boston)  
+[mHealth & Telehealth World Summit](https://www.worldcongress.com/mHealth20/)  
+[Northeast Healthcare Innovation Summit](https://10times.com/northeast-healthcare-innovation-summit-boston)  
+[Patient Experience and Engagement Summit](https://www.worldcongress.com/events/HL20021/)  
 [Patient Experience Symposium](https://www.patientsymposium.com)  
-[The Future of Healthcare: Bringing It Back to the Basics](https://byhp.org)  
+[The Future of Biosensing in Wearables and the Point of Care](http://www.bu.edu/pdc/events-video/pdc2020symposium/)
 [Voice of Healthcare](https://www.vohsummit.com)  
-[Voice Health Summit](https://www.connectedhealthconf.org/boston/2018/VOICE.HEALTH-Summit)  
 [World Medical Innovation](https://worldmedicalinnovation.org)  
 
 Conferences come and go and some are not on repeat, so feel free to send a pull request to help keep the list up to date.
