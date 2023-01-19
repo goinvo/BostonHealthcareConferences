@@ -15,5 +15,9 @@ List of Healthcare conferences in Boston.
 [Voice of Healthcare](https://www.vohsummit.com)  
 [World Medical Innovation](https://worldmedicalinnovation.org)  
 
+Harvard Chan Events (like https://www.hsph.harvard.edu/africa-health-conference/)
+MGB Primary Care Seminar
+
+
 Conferences come and go and some are not on repeat, so feel free to send a pull request to help keep the list up to date.
 Thanks!
